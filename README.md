@@ -11,7 +11,7 @@ Agora é apenas necessário abrir o Matlab e escrever **ProbTipo1** para aceder 
 ### Problema I
 Dado um circuito com determinados parâmetros, pretende-se conhecer aproximadamente as características da onda que ele pode gerar. 
 
-
+![Optional Text](../master/CircEq.png)
 
 <small>Para mais informações sobre as expressões utilizadas no cálculo dos paramentos a determinar manter o rato por cima do seu nome.</small>
 
