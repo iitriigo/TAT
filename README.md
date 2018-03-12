@@ -8,7 +8,8 @@ This directory contains a simple Matlab GUI that allows the user to simulate the
 ### Como instalar
 Para utilizar este GUI do Matlab apenas necessário fazer o download deste repositório como um ficheiro .zip e de seguida deszipa-lo para a pasta do diretório do matlab e ele estará pronto a utilizar. 
 Agora é apenas necessário abrir o Matlab e escrever **Tp1** para aceder à resolução do problema 1 ou **ProbTipo2** para aceder à resolução do problema 2.
-Relembro ainda que o indicador de casa décimal utilizado é um **ponto** (.). A utilização de uma virgula (,) representa a separação de elementos de um vetor e trará erros ao funcionamento do programa. 
+
+> Relembro ainda que o indicador de casa décimal utilizado é um **ponto** (.). A utilização de uma virgula (,) representa a separação de elementos de um vetor e trará erros ao funcionamento do programa. 
 ### Problema I
 Dado um circuito com determinados parâmetros, pretende-se conhecer aproximadamente as características da onda que ele pode gerar. 
 
@@ -42,7 +43,7 @@ Recomenda-se o uso de 10 iterações.
 All you have to do in order to use this Matlab GUI is download this repository as a .zip file and unzip it into the Matlab directory folder. 
 And that's it. 
 Now all you have got do is open Matlab and type **Tp1** (in order to access problem I) or **ProbTipo2** (in order to access problem II).
-Lastly, I remind you that Matlab uses a **dot** (.) as separation between decimal and integers digits. Using of a comma represents the separation of vector elements. 
+> Lastly, I remind you that Matlab uses a **dot** (.) as separation between decimal and integers digits. Using of a comma represents the separation of vector elements. 
 ### Problem I
 Given a circuit with said parameters, we want to know the characteristics of the wave it generates
 
